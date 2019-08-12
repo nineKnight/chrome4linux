@@ -1,1 +1,1 @@
-# chrome4linux
+# chrome4root
